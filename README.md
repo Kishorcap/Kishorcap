@@ -115,7 +115,7 @@
           <td>Pass</td>
         </tr>
         <tr>
-          <td>Maths</td>
+          <td>Mathsg</td>
           <td>35</td>
           <td>fail</td>
         </tr>
