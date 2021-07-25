@@ -1,0 +1,25 @@
+body {
+  background-color: #4DF0FB;
+  width: 100%;
+}
+table {
+  background-color: none;
+}
+img {
+  border-radius: 50%;
+}
+#book {
+  border-radius: 30px;
+  width: 150px;
+  height:200px;
+  margin-left: 20px;
+}
+h3{
+  margin-left: 100px;
+}
+h1{
+  color: #E036CB;
+}
+hr{
+  color: #E036CB;
+}
