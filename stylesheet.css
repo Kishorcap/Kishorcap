@@ -8,7 +8,7 @@ table {
 img {
   border-radius: 50%;
 }
-#book {
+.book {
   border-radius: 30px;
   width: 150px;
   height:200px;
